@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-website-",
+  "version": "1.0.0",
+  "description": "E-commerce website with NodeJS, ExpressJS, EJS and MongoDB for the Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghassen3699/E-commerce-Website-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghassen3699/E-commerce-Website-/issues"
+  },
+  "homepage": "https://github.com/ghassen3699/E-commerce-Website-#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongoose": "^6.4.4"
+  }
+}
